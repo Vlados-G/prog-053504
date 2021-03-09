@@ -40,5 +40,6 @@ int main()
         dec = dec<<2;
         counter++;
     }
+    
     return 0;
 }
